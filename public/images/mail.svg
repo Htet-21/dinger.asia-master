@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1013" data-name="Rectangle 1013" width="32" height="32" transform="translate(10429 714)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_36" data-name="Mask Group 36" transform="translate(-10429 -714)" clip-path="url(#clip-path)">
+    <g id="mail-5" transform="translate(10428.147 713.147)">
+      <path id="Path_1565" data-name="Path 1565" d="M5.618,5.618H28.088A2.817,2.817,0,0,1,30.9,8.426V25.279a2.817,2.817,0,0,1-2.809,2.809H5.618a2.817,2.817,0,0,1-2.809-2.809V8.426A2.817,2.817,0,0,1,5.618,5.618Z" fill="none" stroke="#f7a500" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.809"/>
+      <path id="Path_1566" data-name="Path 1566" d="M30.9,8.426,16.853,18.257,2.809,8.426" fill="none" stroke="#f7a500" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.809"/>
+    </g>
+  </g>
+</svg>

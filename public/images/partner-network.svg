@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1659" height="434" viewBox="0 0 1659 434">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1778f2"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffc144"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_2976" data-name="Group 2976" transform="translate(-113 -2277)">
+    <path id="Union_1" data-name="Union 1" d="M-12193,358V0h1.357V356.646h302.79V275.281h-302.388v-1.357h302.388V192.562h-302.388v-1.357h302.388V109.84h-302.388v-1.357h302.388V27.122h-302.388V25.765h302.388V0h1.358V25.765H-11601V0h1.359V25.765h289.211V0h1.355V25.765h285.139V0h1.359V25.765h307.816v1.357h-307.816v81.361h307.816v1.357h-307.816v81.365h307.816v1.357h-307.816v81.361h307.816v1.357h-307.816v81.365h308.219V0h1.359V358Zm1169.063-1.353V275.281h-285.139v81.365Zm-286.494,0V275.281h-289.211v81.365Zm-290.57,0V275.281h-286.493v81.365Zm577.064-82.722V192.562h-285.139v81.361Zm-286.494,0V192.562h-289.211v81.361Zm-290.57,0V192.562h-286.493v81.361Zm577.064-82.718V109.84h-285.139v81.365Zm-286.494,0V109.84h-289.211v81.365Zm-290.57,0V109.84h-286.493v81.365Zm577.064-82.722V27.122h-285.139v81.361Zm-286.494,0V27.122h-289.211v81.361Zm-290.57,0V27.122h-286.493v81.361Z" transform="translate(12420 2300)" fill="#1a1c20" opacity="0.049"/>
+    <g id="Jun.Ellipse" transform="translate(1701.816 2322)" fill="#1778f2" stroke="#1778f2" stroke-width="2">
+      <circle cx="4.995" cy="4.995" r="4.995" stroke="none"/>
+      <circle cx="4.995" cy="4.995" r="3.995" fill="none"/>
+    </g>
+    <g id="May.Ellipse" transform="translate(1391.645 2456)" fill="#1778f2" stroke="#1778f2" stroke-width="2">
+      <circle cx="4.995" cy="4.995" r="4.995" stroke="none"/>
+      <circle cx="4.995" cy="4.995" r="3.995" fill="none"/>
+    </g>
+    <g id="Apr.Ellipse" transform="translate(1105.487 2551)" fill="#1778f2" stroke="#1778f2" stroke-width="2">
+      <circle cx="4.995" cy="4.995" r="4.995" stroke="none"/>
+      <circle cx="4.995" cy="4.995" r="3.995" fill="none"/>
+    </g>
+    <g id="Mar.Ellipse" transform="translate(814.327 2612)" fill="#1778f2" stroke="#1778f2" stroke-width="2">
+      <circle cx="4.995" cy="4.995" r="4.995" stroke="none"/>
+      <circle cx="4.995" cy="4.995" r="3.995" fill="none"/>
+    </g>
+    <g id="Feb.Ellipse" transform="translate(527.169 2642)" fill="#1778f2" stroke="#1778f2" stroke-width="2">
+      <circle cx="4.995" cy="4.995" r="4.995" stroke="none"/>
+      <circle cx="4.995" cy="4.995" r="3.995" fill="none"/>
+    </g>
+    <text id="_1_month" data-name="1 month" transform="translate(193 2581)" fill="#040c11" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-62.416" y="0">1 month</tspan></text>
+    <text id="_5_months" data-name="5 months" transform="translate(193 2498)" fill="#040c11" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-75.696" y="0">5 months</tspan></text>
+    <text id="_8_months" data-name="8 months" transform="translate(193 2415)" fill="#040c11" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-75.744" y="0">8 months</tspan></text>
+    <text id="_12_months" data-name="12 months" transform="translate(193 2335)" fill="#040c11" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-79.968" y="0">12 months</tspan></text>
+    <text id="Cost" transform="translate(228 2705)" fill="#040c11" font-size="16" font-family="Poppins-Regular, Poppins" opacity="0.5"><tspan x="0" y="0">Cost</tspan></text>
+    <path id="Path_1455" data-name="Path 1455" d="M12421.72,2658s214.983-4.954,331.376-88.034,134.194-244.288,134.194-244.288" transform="translate(-12193 -1)" fill="none" stroke="#ffc144" stroke-width="2"/>
+    <g id="Feb.Ellipse-2" data-name="Feb.Ellipse" transform="translate(527.169 2581)" fill="#ffc144" stroke="#ffc144" stroke-width="2">
+      <circle cx="4.995" cy="4.995" r="4.995" stroke="none"/>
+      <circle cx="4.995" cy="4.995" r="3.995" fill="none"/>
+    </g>
+    <g id="Feb.Ellipse-3" data-name="Feb.Ellipse" transform="translate(689.169 2321)" fill="#ffc144" stroke="#ffc144" stroke-width="2">
+      <circle cx="4.995" cy="4.995" r="4.995" stroke="none"/>
+      <circle cx="4.995" cy="4.995" r="3.995" fill="none"/>
+    </g>
+    <path id="Path_1454" data-name="Path 1454" d="M12421.72,2657.331s362.068,9.069,731.28-65.2,744.842-263.219,744.842-263.219" transform="translate(-12193)" fill="none" stroke="#1778f2" stroke-width="2"/>
+    <g id="Jan.Ellipse" transform="translate(223 2652)" fill="#1778f2" stroke="#1778f2" stroke-width="2">
+      <circle cx="4.995" cy="4.995" r="4.995" stroke="none"/>
+      <circle cx="4.995" cy="4.995" r="3.995" fill="none"/>
+    </g>
+    <path id="Path_1457" data-name="Path 1457" d="M12421.719,2657.331s362.6,9.069,732.351-65.2S13900,2328.91,13900,2328.91v328.421Z" transform="translate(-12193 -1)" opacity="0.5" fill="url(#linear-gradient)"/>
+    <text id="Dinger" transform="translate(695 2294)" fill="#040c11" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-26.096" y="0">Dinger</tspan></text>
+    <text id="Direct_Integration" data-name="Direct Integration" transform="translate(1702 2294)" fill="#040c11" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-69.352" y="0">Direct Integration</tspan></text>
+    <path id="Path_1458" data-name="Path 1458" d="M12887.29,2325.677s-17.8,161.207-134.194,244.288S12421.72,2658,12421.72,2658h465.57Z" transform="translate(-12193 -1)" opacity="0.5" fill="url(#linear-gradient-2)"/>
+    <text id="Cost-2" data-name="Cost" transform="translate(514 2705)" fill="#040c11" font-size="16" font-family="Poppins-Regular, Poppins" opacity="0.5"><tspan x="0" y="0">Cost</tspan></text>
+    <text id="Cost-3" data-name="Cost" transform="translate(800 2705)" fill="#040c11" font-size="16" font-family="Poppins-Regular, Poppins" opacity="0.5"><tspan x="0" y="0">Cost</tspan></text>
+  </g>
+</svg>

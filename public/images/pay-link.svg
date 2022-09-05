@@ -1,0 +1,289 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2044.999" height="1027" viewBox="0 0 2044.999 1027">
+  <defs>
+    <filter id="Rectangle_272" x="484.999" y="0" width="1560" height="1027" filterUnits="userSpaceOnUse">
+      <feOffset dy="16" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="24" result="blur"/>
+      <feFlood flood-opacity="0.051"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_310" x="1890.999" y="91" width="34" height="34" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_341" x="1691.999" y="306" width="258" height="115" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-3"/>
+      <feFlood flood-color="#d2d4dc" flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_341-2" x="1691.999" y="241" width="258" height="115" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-4"/>
+      <feFlood flood-color="#d2d4dc" flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_272-2" x="0" y="283" width="595" height="744" filterUnits="userSpaceOnUse">
+      <feOffset dy="16" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="24" result="blur-5"/>
+      <feFlood flood-opacity="0.051"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_3513" data-name="Group 3513" transform="translate(-335.001 -2027)">
+    <g id="Group_2222" data-name="Group 2222" transform="translate(468 1924)">
+      <g transform="matrix(1, 0, 0, 1, -133, 103)" filter="url(#Rectangle_272)">
+        <rect id="Rectangle_272-3" data-name="Rectangle 272" width="1416" height="883" rx="10" transform="translate(557 56)" fill="#fff"/>
+      </g>
+      <text id="Payment_Links" data-name="Payment Links" transform="translate(455 216)" font-size="24" font-family="Poppins-Medium, Poppins" font-weight="500" opacity="0.8"><tspan x="0" y="0">Payment Links</tspan></text>
+      <g id="Group_492" data-name="Group 492" transform="translate(-428)">
+        <circle id="Ellipse_5" data-name="Ellipse 5" cx="6" cy="6" r="6" transform="translate(903 998)" fill="#3160f1"/>
+        <circle id="Ellipse_6" data-name="Ellipse 6" cx="6" cy="6" r="6" transform="translate(927 998)" fill="#f0f1f6"/>
+        <circle id="Ellipse_7" data-name="Ellipse 7" cx="6" cy="6" r="6" transform="translate(951 998)" fill="#f0f1f6"/>
+        <circle id="Ellipse_8" data-name="Ellipse 8" cx="6" cy="6" r="6" transform="translate(975 998)" fill="#f0f1f6"/>
+        <circle id="Ellipse_9" data-name="Ellipse 9" cx="6" cy="6" r="6" transform="translate(999 998)" fill="#f0f1f6"/>
+      </g>
+      <g id="Group_455" data-name="Group 455" transform="translate(41)">
+        <g id="Group_454" data-name="Group 454" transform="translate(8)">
+          <rect id="Rectangle_301" data-name="Rectangle 301" width="45" height="45" rx="10" transform="translate(1660 977)" fill="#f7f8fa"/>
+          <g id="left-arrow" transform="translate(1672 989)">
+            <path id="Path_180" data-name="Path 180" d="M0,0V21H21V0Z" fill="none" fill-rule="evenodd"/>
+            <path id="Path_181" data-name="Path 181" d="M11.011,12.777c.012-.041.021-.083.037-.123a.661.661,0,0,1,.142-.213l5.253-5.252a.88.88,0,0,1,.213-.142.656.656,0,0,1,.8.971c-.024.036-.054.066-.081.1l-4.788,4.788,4.788,4.788.081.1c.02.038.044.074.06.114a.656.656,0,0,1-.971.8c-.035-.024-.066-.054-.1-.082L11.191,13.37c-.027-.033-.058-.064-.081-.1a.658.658,0,0,1-.1-.236.908.908,0,0,1,0-.257Z" transform="translate(-3.783 -2.407)"/>
+          </g>
+        </g>
+        <g id="Group_453" data-name="Group 453">
+          <rect id="Rectangle_302" data-name="Rectangle 302" width="45" height="45" rx="10" transform="translate(1721 977)" fill="#f7f8fa"/>
+          <g id="left-arrow-2" data-name="left-arrow" transform="translate(1753.998 1009.998) rotate(180)">
+            <path id="Path_180-2" data-name="Path 180" d="M0,0V21H21V0Z" fill="none" fill-rule="evenodd"/>
+            <path id="Path_181-2" data-name="Path 181" d="M11.011,12.777c.012-.041.021-.083.037-.123a.661.661,0,0,1,.142-.213l5.253-5.252a.88.88,0,0,1,.213-.142.656.656,0,0,1,.8.971c-.024.036-.054.066-.081.1l-4.788,4.788,4.788,4.788.081.1c.02.038.044.074.06.114a.656.656,0,0,1-.971.8c-.035-.024-.066-.054-.1-.082L11.191,13.37c-.027-.033-.058-.064-.081-.1a.658.658,0,0,1-.1-.236.908.908,0,0,1,0-.257Z" transform="translate(-3.783 -2.407)"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_2221" data-name="Group 2221" transform="translate(-2127 -12118)">
+        <rect id="Rectangle_816" data-name="Rectangle 816" width="1416" height="65" transform="translate(2551 12501)" fill="#fafafa"/>
+        <rect id="Rectangle_817" data-name="Rectangle 817" width="1416" height="65" transform="translate(2551 12631)" fill="#fafafa"/>
+        <rect id="Rectangle_298" data-name="Rectangle 298" width="1416" height="65" transform="translate(2551 12696)" fill="#fff"/>
+        <rect id="Rectangle_818" data-name="Rectangle 818" width="1416" height="65" transform="translate(2551 12761)" fill="#fafafa"/>
+        <text id="Htet_OS" data-name="Htet OS" transform="translate(2689 12799)" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-29.432" y="0">Htet OS</tspan></text>
+        <rect id="Rectangle_296" data-name="Rectangle 296" width="1416" height="65" transform="translate(2551 12566)" fill="#fff"/>
+        <rect id="Rectangle_300" data-name="Rectangle 300" width="1416" height="65" transform="translate(2551 12436)" fill="#fff"/>
+        <g id="Group_1945" data-name="Group 1945" transform="translate(2142 12118)">
+          <rect id="Rectangle_294" data-name="Rectangle 294" width="1416" height="65" transform="translate(409 253)" fill="#fff"/>
+          <line id="Line_139" data-name="Line 139" x2="1416" transform="translate(409 253.5)" fill="none" stroke="#eee" stroke-width="1"/>
+          <line id="Line_140" data-name="Line 140" x2="1416" transform="translate(409 317.5)" fill="none" stroke="#eee" stroke-width="1"/>
+        </g>
+        <g id="Group_2217" data-name="Group 2217">
+          <g id="Group_2216" data-name="Group 2216">
+            <text id="Prisma_OS" data-name="Prisma OS" transform="translate(2701 12539)" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-40.528" y="0">Prisma OS</tspan></text>
+            <text id="Kyaw_OS" data-name="Kyaw OS" transform="translate(2694 12669)" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-34.384" y="0">Kyaw OS</tspan></text>
+            <text id="Min_OS" data-name="Min OS" transform="translate(2687 12734)" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-27.096" y="0">Min OS</tspan></text>
+            <text id="Zaw_OS" data-name="Zaw OS" transform="translate(2689 12604)" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-29.416" y="0">Zaw OS</tspan></text>
+            <text id="Dinger" transform="translate(2686 12474)" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-26.096" y="0">Dinger</tspan></text>
+          </g>
+          <text id="Name" transform="translate(2684 12409)" fill="#3160f1" font-size="16" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-24.44" y="0">Name</tspan></text>
+        </g>
+        <g id="Group_2219" data-name="Group 2219" transform="translate(65)">
+          <text id="Single_Charge" data-name="Single Charge" transform="translate(2878 12539)" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-56.312" y="0">Single Charge</tspan></text>
+          <text id="Single_Charge-2" data-name="Single Charge" transform="translate(2878 12669)" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-56.312" y="0">Single Charge</tspan></text>
+          <text id="Single_Charge-3" data-name="Single Charge" transform="translate(2878 12734)" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-56.312" y="0">Single Charge</tspan></text>
+          <text id="Single_Charge-4" data-name="Single Charge" transform="translate(2878 12799)" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-56.312" y="0">Single Charge</tspan></text>
+          <text id="Single_Charge-5" data-name="Single Charge" transform="translate(2878 12604)" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-56.312" y="0">Single Charge</tspan></text>
+          <text id="Single_Charge-6" data-name="Single Charge" transform="translate(2878 12474)" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-56.312" y="0">Single Charge</tspan></text>
+          <text id="Type" transform="translate(2842 12409)" fill="#3160f1" font-size="16" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-19.528" y="0">Type</tspan></text>
+        </g>
+        <g id="Group_2220" data-name="Group 2220" transform="translate(-213)">
+          <text id="_12_000_MMK" data-name="12,000 MMK" transform="translate(3428 12539)" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-44.52" y="0">12,000 MMK</tspan></text>
+          <text id="_23_000_MMK" data-name="23,000 MMK" transform="translate(3428 12669)" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-46.672" y="0">23,000 MMK</tspan></text>
+          <text id="_56_200_MMK" data-name="56,200 MMK" transform="translate(3428 12734)" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-47.04" y="0">56,200 MMK</tspan></text>
+          <text id="_90_000_MMK" data-name="90,000 MMK" transform="translate(3428 12799)" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-47.424" y="0">90,000 MMK</tspan></text>
+          <text id="_14_000_MMK" data-name="14,000 MMK" transform="translate(3428 12604)" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-44.952" y="0">14,000 MMK</tspan></text>
+          <text id="_-" data-name="-" transform="translate(3428 12474)" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-4.408" y="0">-</tspan></text>
+          <text id="Amount" transform="translate(3428 12409)" fill="#3160f1" font-size="16" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-32.352" y="0">Amount</tspan></text>
+        </g>
+        <g id="Group_2218" data-name="Group 2218" transform="translate(-363)">
+          <text id="_20_Aug_2020" data-name="20 Aug 2020" transform="translate(3843 12539)" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-49.064" y="0">20 Aug 2020</tspan></text>
+          <text id="_20_Aug_2020-2" data-name="20 Aug 2020" transform="translate(3843 12669)" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-49.064" y="0">20 Aug 2020</tspan></text>
+          <text id="_20_Aug_2020-3" data-name="20 Aug 2020" transform="translate(3843 12734)" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-49.064" y="0">20 Aug 2020</tspan></text>
+          <text id="_20_Aug_2020-4" data-name="20 Aug 2020" transform="translate(3843 12799)" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-49.064" y="0">20 Aug 2020</tspan></text>
+          <text id="_20_Aug_2020-5" data-name="20 Aug 2020" transform="translate(3843 12604)" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-49.064" y="0">20 Aug 2020</tspan></text>
+          <text id="_20_Aug_2020-6" data-name="20 Aug 2020" transform="translate(3843 12474)" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-49.064" y="0">20 Aug 2020</tspan></text>
+          <text id="Created" transform="translate(3827 12409)" fill="#3160f1" font-size="16" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-32.952" y="0">Created</tspan></text>
+        </g>
+      </g>
+      <g id="Component_40_1" data-name="Component 40 – 1" transform="translate(1500 339)">
+        <text id="Preview_link" data-name="Preview link" transform="translate(38 17)" fill="#aaa" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Preview link</tspan></text>
+        <g id="Layer_2" data-name="Layer 2">
+          <g id="eye">
+            <rect id="Rectangle_633" data-name="Rectangle 633" width="23" height="23" fill="#aaa" opacity="0"/>
+            <path id="Path_1118" data-name="Path 1118" d="M21.042,11.229c-.613-1.064-3.987-6.4-9.717-6.229-5.3.134-8.366,4.792-9.2,6.229a.958.958,0,0,0,0,.958c.6,1.045,3.833,6.229,9.478,6.229h.24c5.3-.134,8.376-4.792,9.2-6.229A.958.958,0,0,0,21.042,11.229ZM11.794,16.5c-4.13.1-6.823-3.44-7.667-4.792.958-1.543,3.46-4.7,7.293-4.792,4.111-.105,6.814,3.44,7.667,4.792-.987,1.543-3.46,4.7-7.293,4.792Z" transform="translate(-0.083 -0.208)" fill="#aaa"/>
+            <path id="Path_1119" data-name="Path 1119" d="M11.854,8.5a3.354,3.354,0,1,0,3.354,3.354A3.354,3.354,0,0,0,11.854,8.5Zm0,4.792a1.438,1.438,0,1,1,1.438-1.437A1.437,1.437,0,0,1,11.854,13.292Z" transform="translate(-0.354 -0.354)" fill="#aaa"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_1649" data-name="Group 1649" transform="translate(308 30)">
+        <g id="Component_18_1" data-name="Component 18 – 1" transform="translate(1439 166)">
+          <g id="Rectangle_308" data-name="Rectangle 308" fill="#ffc144" stroke="#ffc144" stroke-width="1">
+            <rect width="40" height="24" rx="12" stroke="none"/>
+            <rect x="0.5" y="0.5" width="39" height="23" rx="11.5" fill="none"/>
+          </g>
+          <g transform="matrix(1, 0, 0, 1, -1880, -93)" filter="url(#Rectangle_310)">
+            <rect id="Rectangle_310-2" data-name="Rectangle 310" width="16" height="16" rx="8" transform="translate(1900 97)" fill="#fff"/>
+          </g>
+        </g>
+        <text id="Show_archived_links" data-name="Show archived links" transform="translate(1419 184)" fill="#424242" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-156.624" y="0">Show archived links</tspan></text>
+      </g>
+      <g id="Component_39_1" data-name="Component 39 – 1" transform="translate(1588.939 405)">
+        <g id="Layer_2-2" data-name="Layer 2" transform="translate(175.061)">
+          <g id="more-vertical">
+            <rect id="Rectangle_632" data-name="Rectangle 632" width="23" height="23" transform="translate(0 23) rotate(-90)" fill="#424242" opacity="0"/>
+            <circle id="Ellipse_77" data-name="Ellipse 77" cx="2" cy="2" r="2" transform="translate(9.5 9.5)" fill="#424242"/>
+            <circle id="Ellipse_78" data-name="Ellipse 78" cx="2" cy="2" r="2" transform="translate(9.5 3)" fill="#424242"/>
+            <circle id="Ellipse_79" data-name="Ellipse 79" cx="2" cy="2" r="2" transform="translate(9.5 16)" fill="#424242"/>
+          </g>
+        </g>
+        <g id="Group_1875" data-name="Group 1875" opacity="0">
+          <g transform="matrix(1, 0, 0, 1, -1721.94, -302)" filter="url(#Rectangle_341)">
+            <g id="Rectangle_341-3" data-name="Rectangle 341" transform="translate(1722 333)" fill="#fff" stroke="#eee" stroke-width="1">
+              <rect width="198" height="55" rx="5" stroke="none"/>
+              <rect x="0.5" y="0.5" width="197" height="54" rx="4.5" fill="none"/>
+            </g>
+          </g>
+          <line id="Line_72" data-name="Line 72" x1="197.214" transform="translate(0 49.682)" fill="none" stroke="#eee" stroke-width="1"/>
+          <line id="Line_73" data-name="Line 73" x1="197.214" transform="translate(0 68.18)" fill="none" stroke="#eee" stroke-width="1"/>
+          <g id="Group_1443" data-name="Group 1443" transform="translate(15.061 47.374)">
+            <text id="Copy_link" data-name="Copy link" transform="translate(38 16.626)" fill="#757575" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Copy link</tspan></text>
+            <g id="Layer_2-3" data-name="Layer 2">
+              <g id="copy">
+                <rect id="Rectangle_635" data-name="Rectangle 635" width="23" height="23" transform="translate(0 -0.374)" fill="#757575" opacity="0"/>
+                <path id="Path_1121" data-name="Path 1121" d="M17.625,20.5h-5.75A2.875,2.875,0,0,1,9,17.625v-5.75A2.875,2.875,0,0,1,11.875,9h5.75A2.875,2.875,0,0,1,20.5,11.875v5.75A2.875,2.875,0,0,1,17.625,20.5Zm-5.75-9.583a.958.958,0,0,0-.958.958v5.75a.958.958,0,0,0,.958.958h5.75a.958.958,0,0,0,.958-.958v-5.75a.958.958,0,0,0-.958-.958Z" transform="translate(-0.375 -0.375)" fill="#757575"/>
+                <path id="Path_1122" data-name="Path 1122" d="M9.45,14.5H5.559A2.568,2.568,0,0,1,3,11.941V5.559A2.568,2.568,0,0,1,5.559,3h6.382A2.568,2.568,0,0,1,14.5,5.559V9.133H12.583V5.559a.642.642,0,0,0-.642-.642H5.559a.642.642,0,0,0-.642.642v6.382a.642.642,0,0,0,.642.642H9.45Z" transform="translate(-0.125 -0.125)" fill="#757575"/>
+              </g>
+            </g>
+          </g>
+          <g id="Group_1473" data-name="Group 1473" transform="translate(15.061 50.492)">
+            <text id="Archive_this_link" data-name="Archive this link" transform="translate(38 16.508)" fill="#757575" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Archive this link</tspan></text>
+            <g id="Layer_2-4" data-name="Layer 2">
+              <g id="archive">
+                <rect id="Rectangle_647" data-name="Rectangle 647" width="23" height="23" transform="translate(23 -0.492) rotate(90)" fill="#757575" opacity="0"/>
+                <path id="Path_1126" data-name="Path 1126" d="M20.251,5.875A2.875,2.875,0,0,0,17.376,3H5.876A2.875,2.875,0,0,0,3.959,8v9.373A2.875,2.875,0,0,0,6.834,20.25h9.583a2.875,2.875,0,0,0,2.875-2.875V8a2.875,2.875,0,0,0,.958-2.128ZM5.876,4.917h11.5a.958.958,0,0,1,0,1.917H5.876a.958.958,0,1,1,0-1.917Zm11.5,12.458a.958.958,0,0,1-.958.958H6.834a.958.958,0,0,1-.958-.958V8.75h11.5Z" transform="translate(-0.126 -0.125)" fill="#757575"/>
+                <rect id="Rectangle_648" data-name="Rectangle 648" width="5" height="1" rx="0.5" transform="translate(9 11.508)" fill="#757575"/>
+              </g>
+            </g>
+          </g>
+          <g id="Group_1476" data-name="Group 1476" transform="translate(15.061 45)">
+            <text id="View_Details" data-name="View Details" transform="translate(38 17)" fill="#757575" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">View Details</tspan></text>
+            <g id="Layer_2-5" data-name="Layer 2">
+              <g id="info">
+                <rect id="Rectangle_650" data-name="Rectangle 650" width="23" height="23" transform="translate(23 23) rotate(180)" fill="#757575" opacity="0"/>
+                <path id="Path_1128" data-name="Path 1128" d="M11.5,2A9.5,9.5,0,1,0,21,11.5,9.5,9.5,0,0,0,11.5,2Zm0,17.1a7.6,7.6,0,1,1,7.6-7.6A7.6,7.6,0,0,1,11.5,19.1Z" fill="#757575"/>
+                <circle id="Ellipse_83" data-name="Ellipse 83" cx="1" cy="1" r="1" transform="translate(10.5 6.682)" fill="#757575"/>
+                <path id="Path_1129" data-name="Path 1129" d="M12,10a1,1,0,0,0-1,1v5a1,1,0,0,0,2,0V11A1,1,0,0,0,12,10Z" transform="translate(-0.5 -0.588)" fill="#757575"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Component_39_2" data-name="Component 39 – 2" transform="translate(1588.939 340)">
+        <g id="Layer_2-6" data-name="Layer 2" transform="translate(175.061)">
+          <g id="more-vertical-2" data-name="more-vertical">
+            <rect id="Rectangle_632-2" data-name="Rectangle 632" width="23" height="23" transform="translate(0 23) rotate(-90)" fill="#424242" opacity="0"/>
+            <circle id="Ellipse_77-2" data-name="Ellipse 77" cx="2" cy="2" r="2" transform="translate(9.5 9.5)" fill="#424242"/>
+            <circle id="Ellipse_78-2" data-name="Ellipse 78" cx="2" cy="2" r="2" transform="translate(9.5 3)" fill="#424242"/>
+            <circle id="Ellipse_79-2" data-name="Ellipse 79" cx="2" cy="2" r="2" transform="translate(9.5 16)" fill="#424242"/>
+          </g>
+        </g>
+        <g id="Group_1875-2" data-name="Group 1875" opacity="0">
+          <g transform="matrix(1, 0, 0, 1, -1721.94, -237)" filter="url(#Rectangle_341-2)">
+            <g id="Rectangle_341-4" data-name="Rectangle 341" transform="translate(1722 268)" fill="#fff" stroke="#eee" stroke-width="1">
+              <rect width="198" height="55" rx="5" stroke="none"/>
+              <rect x="0.5" y="0.5" width="197" height="54" rx="4.5" fill="none"/>
+            </g>
+          </g>
+          <line id="Line_72-2" data-name="Line 72" x1="197.214" transform="translate(0 49.682)" fill="none" stroke="#eee" stroke-width="1"/>
+          <line id="Line_73-2" data-name="Line 73" x1="197.214" transform="translate(0 68.18)" fill="none" stroke="#eee" stroke-width="1"/>
+          <g id="Group_1443-2" data-name="Group 1443" transform="translate(15.061 47.374)">
+            <text id="Copy_link-2" data-name="Copy link" transform="translate(38 16.626)" fill="#757575" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Copy link</tspan></text>
+            <g id="Layer_2-7" data-name="Layer 2">
+              <g id="copy-2" data-name="copy">
+                <rect id="Rectangle_635-2" data-name="Rectangle 635" width="23" height="23" transform="translate(0 -0.374)" fill="#757575" opacity="0"/>
+                <path id="Path_1121-2" data-name="Path 1121" d="M17.625,20.5h-5.75A2.875,2.875,0,0,1,9,17.625v-5.75A2.875,2.875,0,0,1,11.875,9h5.75A2.875,2.875,0,0,1,20.5,11.875v5.75A2.875,2.875,0,0,1,17.625,20.5Zm-5.75-9.583a.958.958,0,0,0-.958.958v5.75a.958.958,0,0,0,.958.958h5.75a.958.958,0,0,0,.958-.958v-5.75a.958.958,0,0,0-.958-.958Z" transform="translate(-0.375 -0.375)" fill="#757575"/>
+                <path id="Path_1122-2" data-name="Path 1122" d="M9.45,14.5H5.559A2.568,2.568,0,0,1,3,11.941V5.559A2.568,2.568,0,0,1,5.559,3h6.382A2.568,2.568,0,0,1,14.5,5.559V9.133H12.583V5.559a.642.642,0,0,0-.642-.642H5.559a.642.642,0,0,0-.642.642v6.382a.642.642,0,0,0,.642.642H9.45Z" transform="translate(-0.125 -0.125)" fill="#757575"/>
+              </g>
+            </g>
+          </g>
+          <g id="Group_1473-2" data-name="Group 1473" transform="translate(15.061 50.492)">
+            <text id="Archive_this_link-2" data-name="Archive this link" transform="translate(38 16.508)" fill="#757575" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Archive this link</tspan></text>
+            <g id="Layer_2-8" data-name="Layer 2">
+              <g id="archive-2" data-name="archive">
+                <rect id="Rectangle_647-2" data-name="Rectangle 647" width="23" height="23" transform="translate(23 -0.492) rotate(90)" fill="#757575" opacity="0"/>
+                <path id="Path_1126-2" data-name="Path 1126" d="M20.251,5.875A2.875,2.875,0,0,0,17.376,3H5.876A2.875,2.875,0,0,0,3.959,8v9.373A2.875,2.875,0,0,0,6.834,20.25h9.583a2.875,2.875,0,0,0,2.875-2.875V8a2.875,2.875,0,0,0,.958-2.128ZM5.876,4.917h11.5a.958.958,0,0,1,0,1.917H5.876a.958.958,0,1,1,0-1.917Zm11.5,12.458a.958.958,0,0,1-.958.958H6.834a.958.958,0,0,1-.958-.958V8.75h11.5Z" transform="translate(-0.126 -0.125)" fill="#757575"/>
+                <rect id="Rectangle_648-2" data-name="Rectangle 648" width="5" height="1" rx="0.5" transform="translate(9 11.508)" fill="#757575"/>
+              </g>
+            </g>
+          </g>
+          <g id="Group_1476-2" data-name="Group 1476" transform="translate(15.061 45)">
+            <text id="View_Details-2" data-name="View Details" transform="translate(38 17)" fill="#757575" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">View Details</tspan></text>
+            <g id="Layer_2-9" data-name="Layer 2">
+              <g id="info-2" data-name="info">
+                <rect id="Rectangle_650-2" data-name="Rectangle 650" width="23" height="23" transform="translate(23 23) rotate(180)" fill="#757575" opacity="0"/>
+                <path id="Path_1128-2" data-name="Path 1128" d="M11.5,2A9.5,9.5,0,1,0,21,11.5,9.5,9.5,0,0,0,11.5,2Zm0,17.1a7.6,7.6,0,1,1,7.6-7.6A7.6,7.6,0,0,1,11.5,19.1Z" fill="#757575"/>
+                <circle id="Ellipse_83-2" data-name="Ellipse 83" cx="1" cy="1" r="1" transform="translate(10.5 6.682)" fill="#757575"/>
+                <path id="Path_1129-2" data-name="Path 1129" d="M12,10a1,1,0,0,0-1,1v5a1,1,0,0,0,2,0V11A1,1,0,0,0,12,10Z" transform="translate(-0.5 -0.588)" fill="#757575"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_2223" data-name="Group 2223" transform="translate(-17.521 2207)">
+      <g transform="matrix(1, 0, 0, 1, 352.52, -180)" filter="url(#Rectangle_272-2)">
+        <rect id="Rectangle_272-4" data-name="Rectangle 272" width="451" height="600" rx="10" transform="translate(72 339)" fill="#fff"/>
+      </g>
+      <line id="Line_120" data-name="Line 120" x2="390.044" transform="translate(455.5 263.5)" fill="none" stroke="#e0e0e0" stroke-width="1"/>
+      <text id="Payment_Details" data-name="Payment Details" transform="translate(455.522 216)" font-size="24" font-family="Poppins-Medium, Poppins" font-weight="500" opacity="0.8"><tspan x="0" y="0">Payment Details</tspan></text>
+      <g id="Group_1669" data-name="Group 1669" transform="translate(459.457 305)">
+        <text id="_12000.00_" data-name="12000.00 " transform="translate(84.065 38)" font-size="36" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="-83.952" y="0">12000.00 </tspan></text>
+        <text id="MMK" transform="translate(196.065 38)" fill="#9e9e9e" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-18.568" y="0">MMK</tspan></text>
+      </g>
+      <line id="Line_121" data-name="Line 121" x2="390.044" transform="translate(455.5 395.5)" fill="none" stroke="#e0e0e0" stroke-width="1"/>
+      <g id="Group_1778" data-name="Group 1778" transform="translate(455.457 435)">
+        <g id="Group_1768" data-name="Group 1768" transform="translate(1 99)">
+          <text id="Link_Type" data-name="Link Type" transform="translate(0.065 17)" fill="#9e9e9e" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Link Type</tspan></text>
+          <text id="Single_Charge-7" data-name="Single Charge" transform="translate(388.065 17)" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-112.624" y="0">Single Charge</tspan></text>
+        </g>
+        <g id="Group_1769" data-name="Group 1769" transform="translate(1 51)">
+          <text id="Page_Name" data-name="Page Name" transform="translate(0.065 17)" fill="#9e9e9e" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Page Name</tspan></text>
+          <text id="Dinger-2" data-name="Dinger" transform="translate(388.065 17)" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-52.192" y="0">Dinger</tspan></text>
+        </g>
+        <g id="Group_1767" data-name="Group 1767" transform="translate(1 147)">
+          <text id="Date_Creation" data-name="Date Creation" transform="translate(0.065 17)" fill="#9e9e9e" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Date Creation</tspan></text>
+          <text id="_5th_September_2020" data-name="5th September 2020" transform="translate(388.065 17)" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-162.208" y="0">5th September 2020</tspan></text>
+        </g>
+        <text id="Information_About_this_link" data-name="Information About this link" transform="translate(0.065 19)" font-size="18" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Information About this link</tspan></text>
+      </g>
+      <g id="Group_1770" data-name="Group 1770" transform="translate(748.587 190)">
+        <rect id="Rectangle_303" data-name="Rectangle 303" width="97" height="35" rx="17.5" transform="translate(-0.065)" fill="#f9f9f9"/>
+        <g id="Group_479" data-name="Group 479" transform="translate(8.457 6)">
+          <text id="Active" transform="translate(30.478 17)" fill="#100a29" font-size="16" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Active</tspan></text>
+          <path id="check-circle" d="M12.5,2A10.5,10.5,0,1,0,23,12.5,10.531,10.531,0,0,0,12.5,2Zm4.41,8.715-5.04,5.04a1.015,1.015,0,0,1-1.47,0h0l-2.31-2.31a1.039,1.039,0,0,1,1.47-1.47h0l1.575,1.575,4.3-4.305a1.039,1.039,0,0,1,1.47,1.47Z" transform="translate(-2 -1)" fill="#4caf50"/>
+        </g>
+      </g>
+      <g id="Group_1773" data-name="Group 1773" transform="translate(451.457 631)">
+        <rect id="Rectangle_686" data-name="Rectangle 686" width="398" height="65" rx="10" transform="translate(0.065)" fill="#f7f7f7"/>
+        <text id="https:_www.dinger.asia" data-name="https://www.dinger.asia" transform="translate(17.065 38)" fill="#9e9e9e" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">https://www.dinger.asia</tspan></text>
+        <g id="Layer_2-10" data-name="Layer 2" transform="translate(357.131 21)">
+          <g id="clipboard">
+            <rect id="Rectangle_688" data-name="Rectangle 688" width="23" height="23" transform="translate(-0.065)" fill="#9e9e9e" opacity="0"/>
+            <path id="Path_1139" data-name="Path 1139" d="M17.375,4.875V3.917A1.917,1.917,0,0,0,15.458,2H7.792A1.917,1.917,0,0,0,5.875,3.917v.958A2.875,2.875,0,0,0,3,7.75V18.292a2.875,2.875,0,0,0,2.875,2.875h11.5a2.875,2.875,0,0,0,2.875-2.875V7.75A2.875,2.875,0,0,0,17.375,4.875ZM7.792,3.917h7.667V7.75H7.792ZM18.333,18.292a.958.958,0,0,1-.958.958H5.875a.958.958,0,0,1-.958-.958V7.75a.958.958,0,0,1,.958-.958V7.75A1.917,1.917,0,0,0,7.792,9.667h7.667A1.917,1.917,0,0,0,17.375,7.75V6.792a.958.958,0,0,1,.958.958Z" transform="translate(0.346 -0.083)" fill="#9e9e9e"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

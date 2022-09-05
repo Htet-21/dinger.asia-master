@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1005" data-name="Rectangle 1005" width="32" height="32" transform="translate(-312 3714)" fill="#f7a500"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_29" data-name="Mask Group 29" transform="translate(312 -3714)" clip-path="url(#clip-path)">
+    <g id="credit-card-4" transform="translate(-312 3714)">
+      <rect id="Rectangle_1009" data-name="Rectangle 1009" width="29.333" height="21.333" rx="2.667" transform="translate(1.333 5.333)" fill="none" stroke="#f7a500" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.667"/>
+      <line id="Line_225" data-name="Line 225" x2="29.333" transform="translate(1.333 13.333)" fill="none" stroke="#f7a500" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.667"/>
+    </g>
+  </g>
+</svg>

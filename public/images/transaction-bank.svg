@@ -1,0 +1,242 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1646" height="1079" viewBox="0 0 1646 1079">
+  <defs>
+    <filter id="Rectangle_272" x="0" y="0" width="1646" height="1079" filterUnits="userSpaceOnUse">
+      <feOffset dy="16" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="24" result="blur"/>
+      <feFlood flood-opacity="0.051"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_314" x="105.499" y="158.5" width="136" height="45" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur-2"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_628" x="1419.5" y="149.5" width="132" height="51" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur-3"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_628-2" x="1228.5" y="149.5" width="185" height="51" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur-4"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_2136" data-name="Group 2136" transform="translate(-337.088 -103.864)">
+    <g transform="matrix(1, 0, 0, 1, 337.09, 103.86)" filter="url(#Rectangle_272)">
+      <g id="Rectangle_272-2" data-name="Rectangle 272" transform="translate(72 56)" fill="#fff" stroke="#eee" stroke-width="0.5">
+        <rect width="1502" height="935" rx="15" stroke="none"/>
+        <rect x="0.25" y="0.25" width="1501.5" height="934.5" rx="14.75" fill="none"/>
+      </g>
+    </g>
+    <text id="Transactions" transform="translate(442.088 218.864)" font-size="25" font-family="Poppins-Medium, Poppins" font-weight="500" opacity="0.8"><tspan x="0" y="0">Transactions</tspan></text>
+    <g id="Group_1958" data-name="Group 1958" transform="translate(409 342.437)">
+      <g id="Group_1955" data-name="Group 1955" transform="translate(0 138.004)">
+        <rect id="Rectangle_816" data-name="Rectangle 816" width="1502" height="68" transform="translate(0.088 0.423)" fill="#fafafa"/>
+        <g id="Group_1954" data-name="Group 1954" transform="translate(67.594 21.593)">
+          <text id="_1" data-name="1" transform="translate(91.494 17.83)" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-2.56" y="0">1</tspan></text>
+          <text id="T-123" transform="translate(239.494 17.83)" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-20.608" y="0">T-123</tspan></text>
+          <text id="KBZ_Pay" data-name="KBZ Pay" transform="translate(434.494 17.83)" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-30.704" y="0">KBZ Pay</tspan></text>
+          <text id="Successed" transform="translate(653.494 17.83)" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-43.208" y="0">Successed</tspan></text>
+          <text id="_12_000_MMK" data-name="12,000 MMK" transform="translate(859.494 17.83)" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-44.52" y="0">12,000 MMK</tspan></text>
+          <text id="Thet_Khine" data-name="Thet Khine" transform="translate(1080.494 17.83)" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-41.416" y="0">Thet Khine</tspan></text>
+          <text id="_20_Aug_2020" data-name="20 Aug 2020" transform="translate(1300.494 17.83)" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-49.064" y="0">20 Aug 2020</tspan></text>
+          <g id="Ellipse_10" data-name="Ellipse 10" transform="translate(0.494 -0.17)" fill="#fff" stroke="#e0e0e0" stroke-width="1">
+            <circle cx="13.5" cy="13.5" r="13.5" stroke="none"/>
+            <circle cx="13.5" cy="13.5" r="13" fill="none"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_1951" data-name="Group 1951" transform="translate(0 276.009)">
+        <rect id="Rectangle_817" data-name="Rectangle 817" width="1502" height="68" transform="translate(0.088 0.419)" fill="#fafafa"/>
+        <g id="Group_1950" data-name="Group 1950" transform="translate(67.594 20.654)">
+          <text id="_1-2" data-name="1" transform="translate(91.494 18.765)" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-2.56" y="0">1</tspan></text>
+          <text id="T-123-2" data-name="T-123" transform="translate(239.494 18.765)" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-20.608" y="0">T-123</tspan></text>
+          <text id="KBZ_Pay-2" data-name="KBZ Pay" transform="translate(434.494 18.765)" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-30.704" y="0">KBZ Pay</tspan></text>
+          <text id="Failed" transform="translate(654.494 18.765)" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-23.744" y="0">Failed</tspan></text>
+          <text id="_23_000_MMK" data-name="23,000 MMK" transform="translate(860.494 18.765)" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-46.672" y="0">23,000 MMK</tspan></text>
+          <text id="Aung_Min_Thu" data-name="Aung Min Thu" transform="translate(1079.494 18.765)" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-53.856" y="0">Aung Min Thu</tspan></text>
+          <text id="_20_Aug_2020-2" data-name="20 Aug 2020" transform="translate(1300.494 18.765)" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-49.064" y="0">20 Aug 2020</tspan></text>
+          <g id="Ellipse_11" data-name="Ellipse 11" transform="translate(0.494 -0.235)" fill="#fff" stroke="#e0e0e0" stroke-width="1">
+            <circle cx="13.5" cy="13.5" r="13.5" stroke="none"/>
+            <circle cx="13.5" cy="13.5" r="13" fill="none"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_1949" data-name="Group 1949" transform="translate(0 344.541)">
+        <rect id="Rectangle_298" data-name="Rectangle 298" width="1502" height="70" transform="translate(0.088 -0.114)" fill="#fff"/>
+        <g id="Group_1948" data-name="Group 1948" transform="translate(67.594 21.593)">
+          <text id="_1-3" data-name="1" transform="translate(91.494 18.293)" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-2.56" y="0">1</tspan></text>
+          <text id="T-123-3" data-name="T-123" transform="translate(239.494 18.293)" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-20.608" y="0">T-123</tspan></text>
+          <text id="KBZ_Pay-3" data-name="KBZ Pay" transform="translate(434.494 18.293)" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-30.704" y="0">KBZ Pay</tspan></text>
+          <text id="Successed-2" data-name="Successed" transform="translate(653.494 18.293)" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-43.208" y="0">Successed</tspan></text>
+          <text id="_56_200_MMK" data-name="56,200 MMK" transform="translate(860.494 18.293)" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-47.04" y="0">56,200 MMK</tspan></text>
+          <text id="Win_Kyaw" data-name="Win Kyaw" transform="translate(1080.494 18.293)" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-38.296" y="0">Win Kyaw</tspan></text>
+          <text id="_20_Aug_2020-3" data-name="20 Aug 2020" transform="translate(1300.494 18.293)" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-49.064" y="0">20 Aug 2020</tspan></text>
+          <g id="Ellipse_12" data-name="Ellipse 12" transform="translate(0.494 0.293)" fill="#fff" stroke="#e0e0e0" stroke-width="1">
+            <circle cx="13.5" cy="13.5" r="13.5" stroke="none"/>
+            <circle cx="13.5" cy="13.5" r="13" fill="none"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_1944" data-name="Group 1944" transform="translate(0 414.013)">
+        <rect id="Rectangle_818" data-name="Rectangle 818" width="1502" height="68" transform="translate(0.088 0.414)" fill="#fafafa"/>
+        <g id="Group_1943" data-name="Group 1943" transform="translate(67.594 20.654)">
+          <text id="_1-4" data-name="1" transform="translate(91.494 18.761)" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-2.56" y="0">1</tspan></text>
+          <text id="T-123-4" data-name="T-123" transform="translate(239.494 18.761)" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-20.608" y="0">T-123</tspan></text>
+          <text id="KBZ_Pay-4" data-name="KBZ Pay" transform="translate(434.494 18.761)" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-30.704" y="0">KBZ Pay</tspan></text>
+          <text id="Failed-2" data-name="Failed" transform="translate(654.494 18.761)" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-23.744" y="0">Failed</tspan></text>
+          <text id="_90_000_MMK" data-name="90,000 MMK" transform="translate(860.494 18.761)" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-47.424" y="0">90,000 MMK</tspan></text>
+          <text id="Nyein_Chan" data-name="Nyein Chan" transform="translate(1079.494 18.761)" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-46.136" y="0">Nyein Chan</tspan></text>
+          <text id="_20_Aug_2020-4" data-name="20 Aug 2020" transform="translate(1300.494 18.761)" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-49.064" y="0">20 Aug 2020</tspan></text>
+          <g id="Ellipse_13" data-name="Ellipse 13" transform="translate(0.494 -0.239)" fill="#fff" stroke="#e0e0e0" stroke-width="1">
+            <circle cx="13.5" cy="13.5" r="13.5" stroke="none"/>
+            <circle cx="13.5" cy="13.5" r="13" fill="none"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_1953" data-name="Group 1953" transform="translate(0 206.537)">
+        <rect id="Rectangle_296" data-name="Rectangle 296" width="1502" height="70" transform="translate(0.088 -0.11)" fill="#fff"/>
+        <g id="Group_1952" data-name="Group 1952" transform="translate(67.594 21.593)">
+          <text id="_1-5" data-name="1" transform="translate(91.494 18.298)" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-2.56" y="0">1</tspan></text>
+          <text id="T-123-5" data-name="T-123" transform="translate(239.494 18.298)" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-20.608" y="0">T-123</tspan></text>
+          <text id="KBZ_Pay-5" data-name="KBZ Pay" transform="translate(434.494 18.298)" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-30.704" y="0">KBZ Pay</tspan></text>
+          <text id="Successed-3" data-name="Successed" transform="translate(653.494 18.298)" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-43.208" y="0">Successed</tspan></text>
+          <text id="_14_000_MMK" data-name="14,000 MMK" transform="translate(859.494 18.298)" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-44.952" y="0">14,000 MMK</tspan></text>
+          <text id="Kaung_Kaung" data-name="Kaung Kaung" transform="translate(1079.494 18.298)" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-53.832" y="0">Kaung Kaung</tspan></text>
+          <text id="_20_Aug_2020-5" data-name="20 Aug 2020" transform="translate(1300.494 18.298)" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-49.064" y="0">20 Aug 2020</tspan></text>
+          <g id="Ellipse_14" data-name="Ellipse 14" transform="translate(0.494 0.298)" fill="#fff" stroke="#e0e0e0" stroke-width="1">
+            <circle cx="13.5" cy="13.5" r="13.5" stroke="none"/>
+            <circle cx="13.5" cy="13.5" r="13" fill="none"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_1957" data-name="Group 1957" transform="translate(0 69.472)">
+        <rect id="Rectangle_300" data-name="Rectangle 300" width="1502" height="69" transform="translate(0.088 -0.044)" fill="#fff"/>
+        <g id="Group_1956" data-name="Group 1956" transform="translate(67.594 20.654)">
+          <text id="_1-6" data-name="1" transform="translate(91.494 18.302)" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-2.56" y="0">1</tspan></text>
+          <text id="T-123-6" data-name="T-123" transform="translate(239.494 18.302)" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-20.608" y="0">T-123</tspan></text>
+          <text id="KBZ_Pay-6" data-name="KBZ Pay" transform="translate(434.494 18.302)" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-30.704" y="0">KBZ Pay</tspan></text>
+          <text id="Successed-4" data-name="Successed" transform="translate(653.494 18.302)" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-43.208" y="0">Successed</tspan></text>
+          <text id="_-" data-name="-" transform="translate(862.494 17.302)" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="-4.132" y="0">-</tspan></text>
+          <text id="Kyaw_Thet" data-name="Kyaw Thet" transform="translate(1080.494 18.302)" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-40.72" y="0">Kyaw Thet</tspan></text>
+          <text id="_20_Aug_2020-6" data-name="20 Aug 2020" transform="translate(1300.494 18.302)" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-49.064" y="0">20 Aug 2020</tspan></text>
+          <g id="Ellipse_15" data-name="Ellipse 15" transform="translate(0.494 0.302)" fill="#fff" stroke="#e0e0e0" stroke-width="1">
+            <circle cx="13.5" cy="13.5" r="13.5" stroke="none"/>
+            <circle cx="13.5" cy="13.5" r="13" fill="none"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_1947" data-name="Group 1947" transform="translate(0 0)">
+        <g id="Group_1945" data-name="Group 1945">
+          <rect id="Rectangle_294" data-name="Rectangle 294" width="1502" height="69" transform="translate(0.088 0.427)" fill="#fff"/>
+          <line id="Line_139" data-name="Line 139" x2="1502.088" transform="translate(0 0.634)" fill="none" stroke="#eee" stroke-width="1"/>
+          <line id="Line_140" data-name="Line 140" x2="1502" transform="translate(0.088 68.427)" fill="none" stroke="#eee" stroke-width="1"/>
+        </g>
+        <g id="Group_1946" data-name="Group 1946" transform="translate(67.594 21.593)">
+          <text id="NO." transform="translate(90.494 17.835)" fill="#3160f1" font-size="16" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-13.968" y="0">NO.</tspan></text>
+          <text id="ID" transform="translate(240.494 17.835)" fill="#3160f1" font-size="16" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-7.784" y="0">ID</tspan></text>
+          <text id="Payment_Type" data-name="Payment Type" transform="translate(432.494 17.835)" fill="#3160f1" font-size="16" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-57.864" y="0">Payment Type</tspan></text>
+          <text id="Status" transform="translate(654.494 17.835)" fill="#3160f1" font-size="16" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-25.672" y="0">Status</tspan></text>
+          <text id="Amount" transform="translate(860.494 17.835)" fill="#3160f1" font-size="16" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-32.352" y="0">Amount</tspan></text>
+          <text id="Customer" transform="translate(1080.494 17.835)" fill="#3160f1" font-size="16" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-40.048" y="0">Customer</tspan></text>
+          <text id="Date" transform="translate(1301.494 17.835)" fill="#3160f1" font-size="16" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-19.008" y="0">Date</tspan></text>
+          <g id="Ellipse_16" data-name="Ellipse 16" transform="translate(0.494 -0.165)" fill="#fff" stroke="#e0e0e0" stroke-width="1">
+            <circle cx="13.5" cy="13.5" r="13.5" stroke="none"/>
+            <circle cx="13.5" cy="13.5" r="13" fill="none"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_492" data-name="Group 492" transform="translate(463.451 1049.357)">
+      <circle id="Ellipse_5" data-name="Ellipse 5" cx="6.5" cy="6.5" r="6.5" transform="translate(-0.363 -0.493)" fill="#3160f1"/>
+      <ellipse id="Ellipse_6" data-name="Ellipse 6" cx="6" cy="6.5" rx="6" ry="6.5" transform="translate(25.637 -0.493)" fill="#f0f1f6"/>
+      <ellipse id="Ellipse_7" data-name="Ellipse 7" cx="6" cy="6.5" rx="6" ry="6.5" transform="translate(50.637 -0.493)" fill="#f0f1f6"/>
+      <circle id="Ellipse_8" data-name="Ellipse 8" cx="7" cy="7" r="7" transform="translate(75.637 -0.493)" fill="#f0f1f6"/>
+      <ellipse id="Ellipse_9" data-name="Ellipse 9" cx="6.5" cy="7" rx="6.5" ry="7" transform="translate(101.637 -0.493)" fill="#f0f1f6"/>
+    </g>
+    <g id="Group_455" data-name="Group 455" transform="translate(1772.145 1026.826)">
+      <g id="Group_454" data-name="Group 454" transform="translate(0 0)">
+        <rect id="Rectangle_301" data-name="Rectangle 301" width="48" height="48" rx="10" transform="translate(-0.058 0.038)" fill="#f7f8fa"/>
+        <g id="left-arrow" transform="translate(12.708 12.658)">
+          <path id="Path_180" data-name="Path 180" d="M0,0V22.275H22.275V0Z" fill="none" fill-rule="evenodd"/>
+          <path id="Path_181" data-name="Path 181" d="M11.012,13.128c.013-.043.022-.088.04-.13a.7.7,0,0,1,.151-.226L16.775,7.2A.934.934,0,0,1,17,7.049a.7.7,0,0,1,.846,1.03c-.025.038-.058.07-.086.106L12.68,13.265l5.079,5.079.086.106c.022.04.047.079.064.12a.7.7,0,0,1-1.03.846c-.038-.026-.07-.058-.105-.087L11.2,13.757c-.029-.036-.061-.068-.086-.106a.7.7,0,0,1-.1-.251A.964.964,0,0,1,11.012,13.128Z" transform="translate(-3.344 -2.127)"/>
+        </g>
+      </g>
+      <g id="Group_453" data-name="Group 453" transform="translate(56.329 0)">
+        <rect id="Rectangle_302" data-name="Rectangle 302" width="48" height="48" rx="10" transform="translate(-0.386 0.038)" fill="#f7f8fa"/>
+        <g id="left-arrow-2" data-name="left-arrow" transform="translate(34.877 34.933) rotate(180)">
+          <path id="Path_180-2" data-name="Path 180" d="M0,0V22.275H22.275V0Z" fill="none" fill-rule="evenodd"/>
+          <path id="Path_181-2" data-name="Path 181" d="M.01,6.128C.023,6.085.032,6.04.05,6A.7.7,0,0,1,.2,5.772L5.773.2A.934.934,0,0,1,6,.05a.717.717,0,0,1,.846.256.712.712,0,0,1,0,.774c-.025.038-.058.07-.086.106L1.678,6.265l5.079,5.079.086.106c.022.04.047.079.064.12a.7.7,0,0,1-1.03.846c-.038-.026-.07-.058-.105-.087L.2,6.757C.172,6.721.139,6.689.114,6.651A.7.7,0,0,1,.01,6.4a.963.963,0,0,1,0-.272Z" transform="translate(7.658 4.872)"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_1013" data-name="Group 1013" transform="translate(441.858 259.822)">
+      <rect id="Rectangle_312" data-name="Rectangle 312" width="520" height="48" rx="10" transform="translate(0.229 0.042)" fill="#f9f9f9"/>
+      <g id="Group_1012" data-name="Group 1012" transform="translate(5.633 5.633)">
+        <g id="Group_540" data-name="Group 540" transform="translate(0 0)">
+          <g transform="matrix(1, 0, 0, 1, -110.4, -161.59)" filter="url(#Rectangle_314)">
+            <rect id="Rectangle_314-2" data-name="Rectangle 314" width="127" height="36" rx="5" transform="translate(110 162)" fill="#fff"/>
+          </g>
+          <text id="Wallet" transform="translate(62.596 23.409)" font-size="14" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-22.358" y="0">Wallet</tspan></text>
+        </g>
+        <text id="Card" transform="translate(189.596 23.409)" font-size="14" font-family="Poppins-Regular, Poppins" opacity="0.5"><tspan x="-17.479" y="0">Card</tspan></text>
+        <text id="Mobile" transform="translate(316.596 23.409)" font-size="14" font-family="Poppins-Regular, Poppins" opacity="0.5"><tspan x="-23.023" y="0">Mobile</tspan></text>
+        <text id="Wallet_A" data-name="Wallet A" transform="translate(443.596 23.409)" font-size="14" font-family="Poppins-Regular, Poppins" opacity="0.5"><tspan x="-28.483" y="0">Wallet A</tspan></text>
+      </g>
+    </g>
+    <g id="Component_52_1" data-name="Component 52 – 1" transform="translate(1570.088 256.864)">
+      <g id="Group_1777" data-name="Group 1777" transform="translate(191 0)">
+        <g transform="matrix(1, 0, 0, 1, -1424, -153)" filter="url(#Rectangle_628)">
+          <g id="Rectangle_628-3" data-name="Rectangle 628" transform="translate(1424 153)" fill="#fff" stroke="#eee" stroke-width="1">
+            <rect width="123" height="42" rx="5" stroke="none"/>
+            <rect x="0.5" y="0.5" width="122" height="41" rx="4.5" fill="none"/>
+          </g>
+        </g>
+        <g id="Group_1776" data-name="Group 1776" transform="translate(20 10)">
+          <text id="Export" transform="translate(59 17)" fill="#424242" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-24.36" y="0">Export</tspan></text>
+          <g id="Layer_2" data-name="Layer 2" transform="translate(0 2)">
+            <g id="external-link">
+              <rect id="Rectangle_554" data-name="Rectangle 554" width="20" height="20" transform="translate(0 0)" opacity="0"/>
+              <path id="Path_1084" data-name="Path 1084" d="M17.167,9.667a.833.833,0,0,0-.833.833v5a.833.833,0,0,1-.833.833H5.5a.833.833,0,0,1-.833-.833V5.5A.833.833,0,0,1,5.5,4.667h5A.833.833,0,0,0,10.5,3h-5A2.5,2.5,0,0,0,3,5.5v10A2.5,2.5,0,0,0,5.5,18h10A2.5,2.5,0,0,0,18,15.5v-5A.833.833,0,0,0,17.167,9.667Z" transform="translate(-0.5 -0.5)"/>
+              <path id="Path_1085" data-name="Path 1085" d="M15.166,4.667h1.317L11.241,9.9a.837.837,0,1,0,1.183,1.183L17.666,5.85V7.167a.833.833,0,0,0,1.667,0V3.833A.833.833,0,0,0,18.5,3H15.166a.833.833,0,0,0,0,1.667Z" transform="translate(-1.832 -0.5)"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_1960" data-name="Group 1960" transform="translate(0 0)">
+        <g transform="matrix(1, 0, 0, 1, -1233, -153)" filter="url(#Rectangle_628-2)">
+          <g id="Rectangle_628-4" data-name="Rectangle 628" transform="translate(1233 153)" fill="#fff" stroke="#eee" stroke-width="1">
+            <rect width="176" height="42" rx="5" stroke="none"/>
+            <rect x="0.5" y="0.5" width="175" height="41" rx="4.5" fill="none"/>
+          </g>
+        </g>
+        <g id="Group_1959" data-name="Group 1959" transform="translate(25 9)">
+          <g id="Group_493" data-name="Group 493" transform="translate(0 1.5)">
+            <text id="Filter" transform="translate(36 17)" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Filter</tspan></text>
+            <g id="filter-3" transform="translate(0 6)">
+              <g id="Group_391" data-name="Group 391">
+                <path id="Path_169" data-name="Path 169" d="M58.929,131.873H41.391a1.014,1.014,0,0,1,0-2.029H58.929a1.014,1.014,0,0,1,0,2.029Z" transform="translate(-40.377 -129.844)"/>
+              </g>
+              <g id="Group_392" data-name="Group 392" transform="translate(2.803 4.71)">
+                <path id="Path_170" data-name="Path 170" d="M115.106,235.671H103.174a1.014,1.014,0,0,1,0-2.029h11.931a1.014,1.014,0,1,1,0,2.029Z" transform="translate(-102.16 -233.642)"/>
+              </g>
+              <g id="Group_393" data-name="Group 393" transform="translate(5.229 9.419)">
+                <path id="Path_171" data-name="Path 171" d="M163.723,339.469h-7.079a1.014,1.014,0,1,1,0-2.029h7.079a1.014,1.014,0,0,1,0,2.029Z" transform="translate(-155.63 -337.44)"/>
+              </g>
+            </g>
+          </g>
+          <line id="Line_31" data-name="Line 31" y2="25" transform="translate(95.5)" fill="none" stroke="#e0e0e0" stroke-width="1"/>
+          <text id="_2" data-name="2" transform="translate(117 18.5)" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">2</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
